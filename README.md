@@ -30,6 +30,7 @@ Materi yang dipelajari dan diimplementasikan dalam repository ini meliputi:
 
 - Dasar Bahasa Pemrograman Python
 - Kelas dan Fungsi pada Bahasa Pemrograman Python
+- Konstruktor, Destruktor, dan Enkapsulasi
 
 > Catatan: Materi pada setiap file menyesuaikan dengan silabus dan modul praktikum yang diberikan dosen.
 
