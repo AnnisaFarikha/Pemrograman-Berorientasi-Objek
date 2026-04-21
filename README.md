@@ -10,7 +10,7 @@ Seluruh praktikum ditulis menggunakan **bahasa Python** dan dikerjakan melalui *
 
 ## Deskripsi Repository
 
-Repository ini digunakan sebagai dokumentasi dan arsip tugas praktikum Algoritma Pemrograman.  
+Repository ini digunakan sebagai dokumentasi dan arsip tugas praktikum Pemrograman Berorientasi Objek.  
 Setiap file berisi latihan dan implementasi konsep algoritma dasar yang dipelajari selama perkuliahan.
 
 Format file menggunakan **Jupyter Notebook (`.ipynb`)** agar mudah dijalankan dan dipahami secara bertahap.
@@ -31,6 +31,7 @@ Materi yang dipelajari dan diimplementasikan dalam repository ini meliputi:
 - Dasar Bahasa Pemrograman Python
 - Kelas dan Fungsi pada Bahasa Pemrograman Python
 - Konstruktor, Destruktor, dan Enkapsulasi
+- Inheritance
 
 > Catatan: Materi pada setiap file menyesuaikan dengan silabus dan modul praktikum yang diberikan dosen.
 
