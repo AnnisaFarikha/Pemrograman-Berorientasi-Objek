@@ -33,6 +33,8 @@ Materi yang dipelajari dan diimplementasikan dalam repository ini meliputi:
 - Konstruktor, Destruktor, dan Enkapsulasi
 - Inheritance
 - Overriding
+- Abstract Base Class dan Interface
+- Penanganan Kesalahan
 
 > Catatan: Materi pada setiap file menyesuaikan dengan silabus dan modul praktikum yang diberikan dosen.
 
