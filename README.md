@@ -35,6 +35,7 @@ Materi yang dipelajari dan diimplementasikan dalam repository ini meliputi:
 - Overriding
 - Abstract Base Class dan Interface
 - Penanganan Kesalahan
+- Integrasi OOP Dalam Aplikasi Pengeluaran Sederhana
 
 > Catatan: Materi pada setiap file menyesuaikan dengan silabus dan modul praktikum yang diberikan dosen.
 
