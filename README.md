@@ -36,6 +36,7 @@ Materi yang dipelajari dan diimplementasikan dalam repository ini meliputi:
 - Abstract Base Class dan Interface
 - Penanganan Kesalahan
 - Integrasi OOP Dalam Aplikasi Pengeluaran Sederhana
+- Integrasi OOP Dalam Mini Project Sistem Informasi Geografis (SIG)
 
 > Catatan: Materi pada setiap file menyesuaikan dengan silabus dan modul praktikum yang diberikan dosen.
 
